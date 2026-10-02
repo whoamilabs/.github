@@ -8,10 +8,10 @@
 [![Status](https://img.shields.io/badge/System_Status-Operational-00E599?style=for-the-badge&logo=statuspage&logoColor=black)](https://whoami-labs.com)
 [![Enterprise](https://img.shields.io/badge/Enterprise-soluciones.whoami--labs.com-000000?style=for-the-badge&logo=shield&logoColor=00E599)](https://soluciones.whoami-labs.com)
 [![Cyber Range PRO](https://img.shields.io/badge/Cyber_Range_PRO-pro.whoami--labs.com-1E293B?style=for-the-badge&logo=kalilinux&logoColor=00E599)](https://pro.whoami-labs.com)
-[![Community Labs](https://img.shields.io/badge/Active_Labs-150+_Deployed-00E599?style=for-the-badge&logo=docker&logoColor=black)](https://whoami-labs.com)
+[![Community Labs](https://img.shields.io/badge/Live_Labs-149_Deployed-00E599?style=for-the-badge&logo=docker&logoColor=black)](https://whoami-labs.com)
 
 <p align="center">
-  <b>Whoami-Labs Soluciones S.A.S.</b> develops proprietary cybersecurity SaaS software, next-generation Cyber Range simulation environments, and hands-on offensive training platforms for enterprises, universities, and security engineering teams across the Americas and EMEA.
+  <b>Whoami-Labs Soluciones S.A.S.</b> develops proprietary cybersecurity SaaS software, Cyber Range simulation environments, and hands-on offensive training platforms for enterprises, universities, and security engineering teams across the Americas and EMEA.
 </p>
 
 </div>
@@ -22,29 +22,55 @@
 
 ```ascii
 [ >W_ Whoami-Labs Soluciones S.A.S. ]
-  ├── 🏢 Enterprise & B2B Solutions   --> soluciones.whoami-labs.com
-  │     ├── Ringo 168      (Automated SME Vulnerability & Security Posture Management)
-  │     └── DonBite        (Enterprise Simulated Phishing & Threat Awareness Engine)
   │
-  ├── 🎯 Interactive Cyber Range (PRO) --> pro.whoami-labs.com
-  │     └── Hands-on Cyber Range, Specialized Pentesting Tracks & Skill Auditing
+  ├── 🌐 Open Community Platform       --> whoami-labs.com              [ LIVE ]
+  │     └── 149 Ephemeral Dockerized Labs · Seasonal CTF · AI Mentor · Methodology-graded Writeups
   │
-  └── 🌐 Open Community Platform      --> whoami-labs.com
-        └── 150+ Ephemeral Dockerized Labs, Monthly CTFs & Talent Discovery Leaderboard
+  ├── 🎯 Interactive Cyber Range (PRO) --> pro.whoami-labs.com          [ LIVE ]
+  │     └── Role-based Tracks, Cloud Labs & Verifiable Credentials
+  │
+  └── 🏢 Enterprise & B2B Solutions    --> soluciones.whoami-labs.com   [ LIVE ]
+        ├── Ringo 168       (SME Vulnerability & Security Posture Management)  [ IN DEVELOPMENT ]
+        ├── DonBite         (Simulated Phishing & Human Risk Index)            [ IN DEVELOPMENT ]
+        └── CiberAventuras  (Gamified K-5 EdTech: STEM + Cyber & AI literacy)  [ IN DEVELOPMENT ]
 ```
+
+> Status labels are literal. The community platform and the Cyber Range are in production
+> and open to anyone; the three B2B products are under active development and their pages
+> describe a roadmap, not a shipped feature set.
+
+---
+
+## 🤖 AI Mentor — our AI product in production
+
+The one piece an external reviewer can open **without registering or paying**.
+
+| | |
+| :--- | :--- |
+| **Where** | `whoami-labs.com`, free tier |
+| **Coverage** | **149 labs indexed — 100% of the catalog** |
+| **Method** | Socratic, with multi-turn memory of the machine the user is working on. Never reveals flags or writeups |
+| **Free-tier cap** | **15 queries per user per day** — the same number published on the plans page |
+| **Built on** | Cloudflare edge infrastructure, with retrieval over our own lab catalog |
+
+Inference cost is the real ceiling on growth. That is what cloud credits buy here.
 
 ---
 
 ## 🎯 Identity, Mission and Vision
 
-* **Our Mission:** Democratize and raise the standard of offensive cybersecurity and digital resilience in emerging markets through proprietary software, realistic attack simulation, and continuous technical validation.
-* **Our Vision:** Establish **Whoami-Labs Soluciones S.A.S.** as the premier benchmark for interactive Cyber Range technology and security SaaS tools by 2027.
+> The official statements of the company are published on the corporate portal and
+> quoted here verbatim:
+> **[soluciones.whoami-labs.com/#identidad](https://soluciones.whoami-labs.com/#identidad)**
+
+* **Mission:** To design, build and operate our own cybersecurity and EdTech software. The intellectual property of every product belongs entirely to the company, and its revenue comes from licenses and subscriptions to those platforms.
+* **Vision:** To sustain from Colombia a portfolio of proprietary platforms that companies and teams across the region use every day, keeping the engineering, the operation and the intellectual property in house.
 
 ---
 
 ## 🛡️ Architecture & Security Frameworks
 
-Our proprietary platforms and simulation infrastructure are strictly engineered under rigorous international standards:
+Our proprietary platforms and simulation infrastructure are engineered under international standards:
 
 * 🧱 **Isolated Ephemeral Environments:** Containerized sandboxes deployed on micro-isolated subnets with automated teardowns for safe offensive simulations.
 * 🎯 **Tactical Adversary Emulation:** Scenarios structured and indexed under **MITRE ATT&CK® v14**, **OWASP Top 10**, and **NIST SP 800-115** technical guidelines.
@@ -63,7 +89,6 @@ Our proprietary platforms and simulation infrastructure are strictly engineered 
   <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Cloudflare_Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
-
 
 ---
 
